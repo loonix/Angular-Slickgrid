@@ -1,5 +1,5 @@
 {
-  "name": "angular-slickgrid",
+  "name": "angular-slickgrid-fix",
   "version": "2.6.0",
   "description": "Slickgrid components made available in Angular",
   "keywords": [
@@ -46,7 +46,7 @@
   "author": "Ghislain B.",
   "repository": {
     "type": "git",
-    "url": "http://github.com/ghiscoding/angular-slickgrid"
+    "url": "https://github.com/loonix/Angular-Slickgrid"
   },
   "main": "src/app/modules/angular-slickgrid/index",
   "private": false,
